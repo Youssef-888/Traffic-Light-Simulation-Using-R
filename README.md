@@ -47,10 +47,8 @@ In the base scenario, Adaptive Pressure achieved an average waiting time of appr
 
 ## Files
 
-- `code/traffic_light_simulation.R`: Main simulation code
-- `report/traffic_light_simulation_report.pdf`: Full project report
-- `figures/`: Generated plots
-- `outputs/`: Summary tables and simulation results
+- `Traffic Light Simulation.R`: Main simulation code
+- `Traffic Light Simulation Project Report.pdf`: Full project report
 
 ## Limitations
 
